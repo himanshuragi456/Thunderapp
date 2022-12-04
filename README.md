@@ -1,11 +1,5 @@
-<h1 align="center">
-<img
-		width="250"
-		alt="Tinder Clone - Expo"
-		src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/tinder-clone-logo.gif">
-</h1>
 <h3 align="center">
-	Tinder Clone - Expo
+	Thunder - Expo
 </h3>
 
 <p align="center">
@@ -15,9 +9,9 @@
 
 ## Overview
 
-⚠️ **This project use code of my previous repository [Tinder - React Native](https://github.com/stevenpersia/tinder-react-native). Because I don't have time to maintain this previous project made on React Native, I've decided to switch to Expo because it's more convenient to me. Sorry if you don't work with Expo (but give it a try).**
+⚠️ **This project use code of my previous repository [Thunder - React Native](https://github.com/himanshuragi456/thunderapp). Because I don't have time to maintain this previous project made on React Native, I've decided to switch to Expo because it's more convenient to me. Sorry if you don't work with Expo (but give it a try).**
 
-**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
+**Perfect to start Thunder app.** 4 screens are availables : Explore, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
 
 - **Easy to use** 🤘
 - **Made with Expo** ⚡
