@@ -1,10 +1,10 @@
-import React from "react";
-import { NavigationContainer } from "@react-navigation/native";
-import { createStackNavigator } from "@react-navigation/stack";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { Home, Matches, Messages, Profile } from "./screens";
-import { PRIMARY_COLOR, DARK_GRAY, BLACK, WHITE } from "./assets/styles";
-import TabBarIcon from "./components/TabBarIcon";
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { Home, Matches, Messages, Profile } from './screens';
+import { PRIMARY_COLOR, DARK_GRAY, BLACK, WHITE } from './assets/styles';
+import TabBarIcon from './components/TabBarIcon';
 
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -24,7 +24,7 @@ const App = () => (
               inactiveTintColor: DARK_GRAY,
               labelStyle: {
                 fontSize: 14,
-                textTransform: "uppercase",
+                textTransform: 'uppercase',
                 paddingTop: 10,
               },
               style: {
